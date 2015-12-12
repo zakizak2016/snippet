@@ -1,1 +1,2 @@
 http://jsonplaceholder.typicode.com/
+https://thinkster.io/a-better-way-to-learn-angularjs
