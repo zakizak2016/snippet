@@ -1,2 +1,3 @@
 http://jsonplaceholder.typicode.com/
 https://thinkster.io/a-better-way-to-learn-angularjs
+http://www.benlesh.com/2013/08/angularjs-watch-digest-and-apply-oh-my.html
