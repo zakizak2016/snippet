@@ -5,3 +5,7 @@ http://stackoverflow.com/questions/11252780/whats-the-correct-way-to-communicate
 
 
 http://bertzzie.com/knowledge/javascript-lanjut/Pemrograman-Asinkron.html
+
+
+http://www.dwmkerr.com/promises-in-angularjs-the-definitive-guide/
+http://www.peterbe.com/plog/promises-with-$http
