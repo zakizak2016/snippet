@@ -1,3 +1,9 @@
+/*
+add frontend homepage
+add backend dashboard
+remove backend dashbord
+*/
+
 "use strict"
 var fs = require('fs');
 
