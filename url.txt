@@ -12,3 +12,4 @@ http://www.peterbe.com/plog/promises-with-$http
 
 http://jensrantil.github.io/refreshable-angularjs-service.html
 http://jimhoskins.com/2012/12/17/angularjs-and-apply.html
+http://stackoverflow.com/questions/26459366/angular-update-scope-when-change-in-factory-data
