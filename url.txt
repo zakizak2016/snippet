@@ -11,3 +11,4 @@ http://www.dwmkerr.com/promises-in-angularjs-the-definitive-guide/
 http://www.peterbe.com/plog/promises-with-$http
 
 http://jensrantil.github.io/refreshable-angularjs-service.html
+http://jimhoskins.com/2012/12/17/angularjs-and-apply.html
