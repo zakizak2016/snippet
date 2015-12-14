@@ -18,3 +18,4 @@ https://variadic.me/posts/2013-10-15-share-state-between-controllers-in-angularj
 http://blog.logiticks.com/communication-between-controllers-in-angularjs-emitonbroadcast/
 
 http://stackoverflow.com/questions/2767735/multiple-database-with-single-application-in-php-and-codeigniter
+http://thunk.technology/blog/changing-ngbp-for-angular-material/
