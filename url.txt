@@ -21,3 +21,4 @@ http://stackoverflow.com/questions/2767735/multiple-database-with-single-applica
 http://thunk.technology/blog/changing-ngbp-for-angular-material/
 
 http://stackoverflow.com/questions/16150311/angularjs-and-localstorage-change-event
+http://stackoverflow.com/questions/29461144/how-to-set-the-key-name-on-an-array-in-angularfire
