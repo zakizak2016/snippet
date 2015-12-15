@@ -19,3 +19,5 @@ http://blog.logiticks.com/communication-between-controllers-in-angularjs-emitonb
 
 http://stackoverflow.com/questions/2767735/multiple-database-with-single-application-in-php-and-codeigniter
 http://thunk.technology/blog/changing-ngbp-for-angular-material/
+
+http://stackoverflow.com/questions/16150311/angularjs-and-localstorage-change-event
