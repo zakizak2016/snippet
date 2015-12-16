@@ -36,3 +36,7 @@ https://www.codetutorial.io/chat-app-with-angularjs-and-firebase/
 https://scotch.io/tutorials/build-a-real-time-scheduling-app-using-angularjs-and-firebase
 http://code.tutsplus.com/articles/using-firebase-with-angularjs--cms-22233
 http://www.sitepoint.com/building-chat-app-node-webkit-firebase-angularjs/
+
+
+
+http://codemorning.xyz/100-best-free-angular-js-tutorials-pdf-ebooks/
