@@ -27,3 +27,4 @@ http://mcgivery.com/100-ionic-framework-resources/
 
 https://www.airpair.com/angularjs/posts/build-a-real-time-hybrid-app-with-ionic-firebase
 https://www.codetutorial.io/chat-app-with-angularjs-and-firebase/
+https://scotch.io/tutorials/build-a-real-time-scheduling-app-using-angularjs-and-firebase
