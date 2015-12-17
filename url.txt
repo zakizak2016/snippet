@@ -43,3 +43,8 @@ http://codemorning.xyz/100-best-free-angular-js-tutorials-pdf-ebooks/
 
 
 https://forum.ionicframework.com/t/populate-ionic-list-from-sqlite-database/24800/4
+
+
+
+user auth
+http://subashselvaraj.com/2015/02/15/login-based-application-with-ionic-framework-connect-to-websql-part1/
