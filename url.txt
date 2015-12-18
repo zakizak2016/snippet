@@ -50,3 +50,6 @@ user auth
 http://subashselvaraj.com/2015/02/15/login-based-application-with-ionic-framework-connect-to-websql-part1/
 
 http://haroldrv.com/2015/02/understanding-angularjs-q-service-and-promises/
+
+Ionic Elastichat
+http://codepen.io/rossmartin/pen/XJmpQr
