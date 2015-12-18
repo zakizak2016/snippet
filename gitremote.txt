@@ -1,0 +1,1 @@
+git remote add origin "git@github.com:zakizak2016/name.git"
