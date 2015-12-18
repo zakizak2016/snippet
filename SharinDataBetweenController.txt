@@ -1,0 +1,36 @@
+var app = angular.module('App',[]);
+
+app.factory('myFactory', function($q, $timeout, $http, $rootScope){
+	var content = 'from factory';
+
+	return{
+		getContent: function(){
+			return content;
+		},
+		setContent: function(newContent){
+				content = newContent;
+				$rootScope.$broadcast('factoryChanged',content);
+				return content;
+		}
+	}
+
+});
+app.controller('Ctrl1',function($scope, myFactory, $timeout){
+	$scope.content = myFactory.getContent();
+	$scope.$on('factoryChanged', function(events, newContent) {
+		$scope.content = newContent;
+	});
+
+	$scope.updateContent = function(){
+		myFactory.setContent($scope.inputContent);
+	}
+});
+
+app.controller('Ctrl2',function($scope, myFactory){
+
+	$scope.content = myFactory.getContent();
+	$scope.$on('factoryChanged', function(events, newContent) {
+		$scope.content = newContent;
+	});
+
+});
