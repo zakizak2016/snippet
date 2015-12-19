@@ -9,7 +9,7 @@ var sh = require('shelljs');
 
 var paths = {
   sass: ['./scss/**/*.scss'],
-  scripts: ['./www/js/*.js','./www/js/**/*.js']
+  js: ['./www/js/**/*.js','./www/templates/**/*.js'],
 };
 
 gulp.task('default', ['sass']);
@@ -29,11 +29,10 @@ gulp.task('sass', function(done) {
 
 gulp.task('watch', function() {
   gulp.watch(paths.sass, ['sass']);
-  gulp.watch(paths.scripts, ['scripts']);
+  gulp.watch(paths.js, ['scripts']);
 });
-
 gulp.task('scripts', function() {
-  return gulp.src(['./www/js/*.js','./www/js/*/*.js'])
+  return gulp.src(paths.js)
     .pipe(concat('app.dev.js'))
     .pipe(gulp.dest('./www/dist/'));
 });
