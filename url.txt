@@ -53,3 +53,7 @@ http://haroldrv.com/2015/02/understanding-angularjs-q-service-and-promises/
 
 Ionic Elastichat
 http://codepen.io/rossmartin/pen/XJmpQr
+
+
+http://danielnagy.me/md-data-table/
+http://angularscript.com/
