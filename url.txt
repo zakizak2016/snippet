@@ -57,3 +57,7 @@ http://codepen.io/rossmartin/pen/XJmpQr
 
 http://danielnagy.me/md-data-table/
 http://angularscript.com/
+
+learning angular list
+https://github.com/jmcunningham/AngularJS-Learning
+https://angularjs.zeef.com/harris.brakmic
