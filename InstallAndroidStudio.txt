@@ -1,0 +1,14 @@
+
+"JAVA_HOME"
+"C:\Program Files\Java\jdk1.8.0_31"
+If 32bit
+
+"JAVA_HOME"
+"C:\Program Files\Java\jdk1.8.0_31"
+and don't put \bin end
+
+then comes to system variable
+
+select and edit "path" as
+
+"C:\Program Files\Java\jdk1.8.0_31\bin"
