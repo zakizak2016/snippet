@@ -69,3 +69,7 @@ http://www.jvandemo.com/learn-how-to-make-authentication-in-your-angular-applica
 
 NODEJS PROMISE
 http://www.mattgreer.org/articles/promises-in-wicked-detail/
+
+
+Sublime Build System
+http://www.wikihow.com/Create-a-Javascript-Console-in-Sublime-Text
