@@ -61,3 +61,7 @@ http://angularscript.com/
 learning angular list
 https://github.com/jmcunningham/AngularJS-Learning
 https://angularjs.zeef.com/harris.brakmic
+
+
+AUTH
+http://www.jvandemo.com/learn-how-to-make-authentication-in-your-angular-applications-simpler-and-more-consistent/
