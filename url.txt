@@ -65,3 +65,7 @@ https://angularjs.zeef.com/harris.brakmic
 
 AUTH
 http://www.jvandemo.com/learn-how-to-make-authentication-in-your-angular-applications-simpler-and-more-consistent/
+
+
+NODEJS PROMISE
+http://www.mattgreer.org/articles/promises-in-wicked-detail/
