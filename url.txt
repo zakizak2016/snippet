@@ -73,3 +73,7 @@ http://www.mattgreer.org/articles/promises-in-wicked-detail/
 
 Sublime Build System
 http://www.wikihow.com/Create-a-Javascript-Console-in-Sublime-Text
+
+
+BING API 
+https://www.npmjs.com/package/node-bing-api
