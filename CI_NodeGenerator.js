@@ -1,7 +1,4 @@
 /*
-PUT ci.js on root folder of installed CI
-
-COMMAND LINE
 node ci.js add frontend homepage
 node ci.js add backend dashboard
 node ci.js remove frontend homepage
@@ -52,6 +49,12 @@ if(args[0] == 'add'){
 		return false;
 	});
 
+	/* create model */
+	var modelFilename =  'application/models/' + bundleFirstUpper + '_model.php';
+	fs.writeFile(modelFilename, '', function (err) {
+		console.log(modelFilename + ' created !');
+	});
+
 	/* Create View */
 	if (!fs.existsSync(viewDirectoryBundle)){
 		fs.mkdirSync(viewDirectoryBundle);
@@ -82,11 +85,17 @@ else if(args[0] == 'remove'){
 		var viewFilename = viewDirectoryBundle + '/' + bundleLowercase +'_view.php';
 		fs.unlink(viewFilename);
 		fs.rmdir(viewDirectoryBundle);
+
+		var modelFilename =  'application/models/' + bundleFirstUpper + '_model.php';
+		fs.unlink(modelFilename);
 	}
 	else if(args.length == 2){
 		var controllerDirectory = 'application/controllers';
 		var viewDirectory = 'application/views';
 		var bundleName = args[1];
+
+		var modelFilename =  'application/models/' + bundleFirstUpper + '_model.php';
+		fs.unlink(modelFilename);
 	}
 	else{
 		console.log("ERROR ARGS !");return false;
