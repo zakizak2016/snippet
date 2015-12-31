@@ -83,3 +83,6 @@ http://harviacode.com/category/codeigniter/
 
 
 http://code.runnable.com/Uld6VcWt6UEaAAHR/combine-promises-with-q-for-node-js
+
+
+http://blog.ragingflame.co.za/2015/2/6/resizing-images-in-nodejs-applications
