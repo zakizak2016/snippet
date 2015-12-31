@@ -24,6 +24,10 @@ if(args[0] == 'add'){
 		if (!fs.existsSync(viewDirectory)){
 			fs.mkdirSync(viewDirectory);
 		}
+
+		if (!fs.existsSync('application/models/'+args[1])){
+			fs.mkdirSync('application/models/'+args[1]);
+		}
 	}
 	else if(args.length == 2){
 		var controllerDirectory = 'application/controllers';
@@ -50,7 +54,7 @@ if(args[0] == 'add'){
 	});
 
 	/* create model */
-	var modelFilename =  'application/models/' + bundleFirstUpper + '_model.php';
+	var modelFilename =  'application/models/' + args[1] + '/' + bundleFirstUpper + '_model.php';
 	fs.writeFile(modelFilename, '', function (err) {
 		console.log(modelFilename + ' created !');
 	});
@@ -86,7 +90,7 @@ else if(args[0] == 'remove'){
 		fs.unlink(viewFilename);
 		fs.rmdir(viewDirectoryBundle);
 
-		var modelFilename =  'application/models/' + bundleFirstUpper + '_model.php';
+		var modelFilename =  'application/models/' + args[1] + '/' + bundleFirstUpper + '_model.php';
 		fs.unlink(modelFilename);
 	}
 	else if(args.length == 2){
