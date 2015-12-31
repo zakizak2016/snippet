@@ -1,8 +1,11 @@
 /*
-add frontend homepage
-add backend dashboard
-remove frontend homepage
-remove backend dashboard
+PUT ci.js on root folder of installed CI
+
+COMMAND LINE
+node ci.js add frontend homepage
+node ci.js add backend dashboard
+node ci.js remove frontend homepage
+node ci.js remove backend dashboard
 */
 
 "use strict"
@@ -13,8 +16,8 @@ var args = process.argv.slice(2);
 
 if(args[0] == 'add'){
 	if(args.length == 3){
-		var controllerDirectory = 'controllers/' + args[1] ;
-		var viewDirectory = 'views/' + args[1] ;
+		var controllerDirectory = 'application/controllers/' + args[1] ;
+		var viewDirectory = 'application/views/' + args[1] ;
 		var bundleName = args[2];
 
 		if (!fs.existsSync(controllerDirectory)){
@@ -26,8 +29,8 @@ if(args[0] == 'add'){
 		}
 	}
 	else if(args.length == 2){
-		var controllerDirectory = 'controllers';
-		var viewDirectory = 'views';
+		var controllerDirectory = 'application/controllers';
+		var viewDirectory = 'application/views';
 		var bundleName = args[1];
 	}
 	else{
@@ -68,21 +71,21 @@ else if(args[0] == 'remove'){
 		var bundleLowercase = bundleName.toLowerCase();
 		var bundleFirstUpper = bundleName.charAt(0).toUpperCase() + bundleName.toLowerCase().slice(1);
 		
-		var controllerDirectory = 'controllers/' + args[1] ;
+		var controllerDirectory = 'application/controllers/' + args[1] ;
 		var controllerFilename = controllerDirectory + '/' + bundleFirstUpper + '.php';
 		if (fs.existsSync(controllerFilename)) {
 			fs.unlinkSync(controllerFilename);
 		}
 		
-		var viewDirectory = 'views/' + args[1] ;
+		var viewDirectory = 'application/views/' + args[1] ;
 		var viewDirectoryBundle = viewDirectory + '/' + bundleLowercase;
 		var viewFilename = viewDirectoryBundle + '/' + bundleLowercase +'_view.php';
 		fs.unlink(viewFilename);
 		fs.rmdir(viewDirectoryBundle);
 	}
 	else if(args.length == 2){
-		var controllerDirectory = 'controllers';
-		var viewDirectory = 'views';
+		var controllerDirectory = 'application/controllers';
+		var viewDirectory = 'application/views';
 		var bundleName = args[1];
 	}
 	else{
