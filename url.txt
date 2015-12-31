@@ -80,3 +80,6 @@ https://www.npmjs.com/package/node-bing-api
 
 
 http://harviacode.com/category/codeigniter/
+
+
+http://code.runnable.com/Uld6VcWt6UEaAAHR/combine-promises-with-q-for-node-js
