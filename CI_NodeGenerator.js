@@ -1,7 +1,8 @@
 /*
 add frontend homepage
 add backend dashboard
-remove backend dashbord
+remove frontend homepage
+remove backend dashboard
 */
 
 "use strict"
