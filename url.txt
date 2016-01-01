@@ -91,3 +91,5 @@ http://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagic
 
 http://www.awwwards.com/
 https://www.madewithangular.com/#/
+
+http://templated.co/
