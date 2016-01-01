@@ -93,3 +93,9 @@ http://www.awwwards.com/
 https://www.madewithangular.com/#/
 
 http://templated.co/
+
+images
+https://pixabay.com
+https://www.morguefile.com/archive
+http://startupstockphotos.com/
+https://unsplash.com/
