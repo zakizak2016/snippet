@@ -54,6 +54,11 @@ module.exports = function(grunt) {
                 files: {
                     'built.min.css': ['built.css']
                 }
+            },
+            target2: {
+                files: {
+                    'tidy.min.css': ['tidy.css']
+                }
             }
         },
         watch: {
@@ -74,13 +79,22 @@ module.exports = function(grunt) {
                     // paths: ["assets/css"]
                 },
                 files: {
-                    "static/css/style.dev.css": "static/less/style.less"
+                    "style.dev.css": "samples/template/less/style.less"
+                    // "static/css/style.dev.css": "static/less/style.less"
                 }
             }
             
         },
-
-
+        uncss: {
+            dist: {
+                 options: {
+      ignore: ['#added_at_runtime',  "/^#js/"]
+    },
+                files: {
+                    'tidy.css': ['index2.html']
+                }
+            }
+        }
     });
 
 grunt.loadNpmTasks('grunt-contrib-less');
@@ -89,6 +103,7 @@ grunt.loadNpmTasks('grunt-contrib-watch');
 grunt.loadNpmTasks('grunt-contrib-concat');
 grunt.loadNpmTasks('grunt-contrib-cssmin');
 grunt.loadNpmTasks('grunt-contrib-uglify');
+grunt.loadNpmTasks('grunt-uncss');
 
 grunt.registerTask('default', ['watch']);
 
