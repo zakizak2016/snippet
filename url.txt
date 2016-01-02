@@ -111,3 +111,4 @@ https://gyazo.com/
 https://github.com/fatlinesofcode/ngDraggable
 
 http://www.directiv.es/examples
+http://angularscript.com/category/drag-drop/
