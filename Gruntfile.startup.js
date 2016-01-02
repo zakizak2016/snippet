@@ -95,6 +95,10 @@ grunt.registerTask('default', ['watch']);
     /* 
     Live reload
     <script src="//localhost:35729/livereload.js"></script>
+
+    goofoffline "http://fonts.googleapis.com/css?family=Montserrat"
+    goofoffline "http://fonts.googleapis.com/css?family=Raleway"
+    
     */
 
 };
