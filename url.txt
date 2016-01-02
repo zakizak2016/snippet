@@ -112,3 +112,6 @@ https://github.com/fatlinesofcode/ngDraggable
 
 http://www.directiv.es/examples
 http://angularscript.com/category/drag-drop/
+
+
+http://www.sitepoint.com/complete-guide-reducing-page-weight/
