@@ -116,3 +116,6 @@ http://angularscript.com/category/drag-drop/
 
 http://www.sitepoint.com/complete-guide-reducing-page-weight/
 http://stackoverflow.com/questions/27125263/stop-grunt-contrib-uglify-from-removing-unused-javascript
+
+
+https://github.com/kenjis/ci-phpunit-test/blob/master/docs/HowToWriteTests.md#show_error-and-show_404
