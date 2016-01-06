@@ -127,3 +127,4 @@ http://shoelace.io/
 Simple Angular UI Router Auth
 http://brewhouse.io/blog/2014/12/09/authentication-made-simple-in-single-page-angularjs-applications.html
 http://www.frederiknakstad.com/2014/02/09/ui-router-in-angular-client-side-auth/
+http://solidfoundationwebdev.com/blog/posts/require-authentication-for-certain-routes-with-ui-router-in-angularjs  << simplest
