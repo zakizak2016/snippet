@@ -25,6 +25,8 @@ http://stackoverflow.com/questions/29461144/how-to-set-the-key-name-on-an-array-
 
 http://mcgivery.com/100-ionic-framework-resources/
 
+https://www.airpair.com/firebase/posts/structuring-your-firebase-data
+
 
 JSON
 https://randomuser.me/api/?results=10
