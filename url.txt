@@ -129,3 +129,7 @@ http://brewhouse.io/blog/2014/12/09/authentication-made-simple-in-single-page-an
 http://www.frederiknakstad.com/2014/02/09/ui-router-in-angular-client-side-auth/
 http://solidfoundationwebdev.com/blog/posts/require-authentication-for-certain-routes-with-ui-router-in-angularjs  << simplest
 http://westonganger.com/index?category_id=6
+
+
+
+http://tumba.solutions/blog/angularjs-and-parse
