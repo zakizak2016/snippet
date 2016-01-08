@@ -138,3 +138,6 @@ http://tumba.solutions/blog/angularjs-and-parse
 
 https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular
 http://firebase.github.io/firebase-util/#/
+
+https://github.com/domnikl/DesignPatternsPHP
+https://github.com/fzaninotto/Faker
