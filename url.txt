@@ -145,3 +145,4 @@ https://github.com/fzaninotto/Faker
 
 https://www.codeigniter.com/user_guide/general/autoloader.html
 http://codesamplez.com/development/composer-with-codeigniter
+https://philsturgeon.uk/php/2012/05/07/composer-with-codeigniter/
