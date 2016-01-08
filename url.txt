@@ -141,3 +141,7 @@ http://firebase.github.io/firebase-util/#/
 
 https://github.com/domnikl/DesignPatternsPHP
 https://github.com/fzaninotto/Faker
+
+
+https://www.codeigniter.com/user_guide/general/autoloader.html
+http://codesamplez.com/development/composer-with-codeigniter
