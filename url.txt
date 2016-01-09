@@ -152,3 +152,7 @@ $config['composer_autoload'] = './vendor/autoload.php';
 https://philsturgeon.uk/php/2012/05/07/composer-with-codeigniter/
 https://packagist.org/packages/eelkevdbos/firebase-php
 https://packagist.org/packages/fzaninotto/faker
+
+
+faker npm
+https://www.npmjs.com/package/Faker
