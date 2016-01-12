@@ -12,30 +12,12 @@ var views = 'application/views/'+mode+'/' + bundleLowercase +'/'+ bundleLowercas
 
 
 
-/*
-fs.writeFile(controllers, '', function (err) {
-	console.log(controllers + ' created !');
-	return false;
-});
-fs.writeFile(views, '', function (err) {
-	console.log(views + ' created !');
-	return false;
-});
-*/
 
-/*
-fs.unlink(controllers);
-fs.unlink(views);
-*/
-
-
-/* Use sync*/
-/*
-fs.writeFileSync(controllers);
+fs.writeFileSync(controllers,'controller');
 fs.mkdirSync(viewFolder);
-fs.writeFileSync(views);
-*/
+fs.writeFileSync(views,'bundleFirstUpper');
 
-fs.unlinkSync(views);
-fs.unlinkSync(controllers);
-fs.rmdirSync(viewFolder);
+
+// fs.unlinkSync(views);
+// fs.unlinkSync(controllers);
+// fs.rmdirSync(viewFolder);
