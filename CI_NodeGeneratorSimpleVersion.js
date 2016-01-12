@@ -1,7 +1,7 @@
 var fs = require('fs');
 var args = process.argv.slice(2);
 
-var mode = "frontend";
+var mode = "dashboard";
 
 var bundleName = args[0];
 var bundleLowercase = bundleName.toLowerCase();
@@ -15,7 +15,7 @@ var views = 'application/views/'+mode+'/' + bundleLowercase +'/'+ bundleLowercas
 
 fs.writeFileSync(controllers,'controller');
 fs.mkdirSync(viewFolder);
-fs.writeFileSync(views,'bundleFirstUpper');
+fs.writeFileSync(views,bundleFirstUpper);
 
 
 // fs.unlinkSync(views);
