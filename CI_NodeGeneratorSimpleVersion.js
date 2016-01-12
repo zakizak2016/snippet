@@ -28,7 +28,14 @@ fs.unlink(controllers);
 fs.unlink(views);
 */
 
+
 /* Use sync*/
+/*
 fs.writeFileSync(controllers);
 fs.mkdirSync(viewFolder);
 fs.writeFileSync(views);
+*/
+
+fs.unlinkSync(views);
+fs.unlinkSync(controllers);
+fs.rmdirSync(viewFolder);
