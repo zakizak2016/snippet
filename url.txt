@@ -168,3 +168,6 @@ http://stackoverflow.com/questions/21836478/grunt-watch-connect
 http://idjs.github.io/belajar-nodejs
 
 https://www.quora.com/Competitor-Research/What-are-the-best-builtwith-com-alternatives-out-there
+
+
+http://esujianto.com/windows/solusi-error-print-pdf-frontaccounting
