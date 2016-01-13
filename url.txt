@@ -172,3 +172,6 @@ https://www.quora.com/Competitor-Research/What-are-the-best-builtwith-com-altern
 
 http://esujianto.com/windows/solusi-error-print-pdf-frontaccounting
 http://www.kode-blog.com/2015/05/codeigniter-controllers-tutorial/
+
+
+http://stackoverflow.com/questions/14947261/codeigniterhmvc-cross-module-call-controller-method
