@@ -181,4 +181,7 @@ http://explorecrew.org/Taklukkan-Sasaran-Tanpa-Menyentuhnya-Code-Igniter-Hack-s-
 
 https://stocksnap.io/
 http://startupstash.com/
+
+
 https://medium.com/opinionated-angularjs/scalable-code-organization-in-angularjs-9f01b594bf06#.l17rhystr
+https://scotch.io/tutorials/making-skinny-angularjs-controllers
