@@ -177,3 +177,7 @@ http://www.kode-blog.com/2015/05/codeigniter-controllers-tutorial/
 http://stackoverflow.com/questions/14947261/codeigniterhmvc-cross-module-call-controller-method
 http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/#Factories-and-Directives-Working-Together
 http://explorecrew.org/Taklukkan-Sasaran-Tanpa-Menyentuhnya-Code-Igniter-Hack-s-Trick/
+
+
+https://stocksnap.io/
+http://startupstash.com/
