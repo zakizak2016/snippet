@@ -212,3 +212,6 @@ https://github.com/fzaninotto/Faker
 http://jonathonhill.net/2012-12-16/scaling-your-website-three-stages/
 
 https://www.producthunt.com/tech
+
+
+https://github.com/blueimp/jQuery-File-Upload/wiki/jQuery-File-Upload-9.5-with-CodeIgniter-2.1.4
