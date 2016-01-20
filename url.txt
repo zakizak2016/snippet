@@ -194,3 +194,4 @@ https://medium.com/life-learning/the-37-best-websites-to-learn-something-new-895
 
 http://dailyjs.com/2015/02/05/xray/
 https://egghead.io/lessons/node-js-intro-to-web-scraping-with-node-and-x-ray
+https://datatools.quora.com/
