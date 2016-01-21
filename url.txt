@@ -219,3 +219,8 @@ http://codeinsider.us/
 
 
 http://stackoverflow.com/questions/15464982/does-less-have-an-extend-feature
+
+
+
+http://code.tutsplus.com/tutorials/top-20-mysql-best-practices--net-7855
+http://bigdata-madesimple.com/top-10-best-practices-in-mysql/
