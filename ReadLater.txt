@@ -1,1 +1,2 @@
 
+https://medium.com/@burimshala/how-to-implement-middleware-in-angular-using-ui-router-b3267dddbae8#.8k4q9evdv
