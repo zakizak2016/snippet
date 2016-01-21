@@ -216,3 +216,6 @@ https://www.producthunt.com/tech
 
 https://github.com/blueimp/jQuery-File-Upload/wiki/jQuery-File-Upload-9.5-with-CodeIgniter-2.1.4
 http://codeinsider.us/
+
+
+http://stackoverflow.com/questions/15464982/does-less-have-an-extend-feature
