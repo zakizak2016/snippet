@@ -4,3 +4,4 @@ https://medium.com/@burimshala/how-to-implement-middleware-in-angular-using-ui-r
 
 https://coderwall.com/p/uyrjig/call-current-controller-method-in-codeigniter-dynamically
 https://coderwall.com/p/uv64qq/organise-you-codeigniter-setup
+https://coderwall.com/p/__z9ia/scale-php-on-ec2-to-30-000-concurrent-users-server
