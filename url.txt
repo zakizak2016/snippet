@@ -232,3 +232,7 @@ http://www.awwwards.com/10-social-networks-for-developers.html
 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel
 https://www.quora.com/Whats-the-best-HTML5-drag-drop-editor-free-or-freemium
+
+
+
+http://bootdey.com/snippets/view/users-resume-cards
