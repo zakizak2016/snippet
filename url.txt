@@ -236,3 +236,6 @@ https://www.quora.com/Whats-the-best-HTML5-drag-drop-editor-free-or-freemium
 
 
 http://bootdey.com/snippets/view/users-resume-cards
+
+
+http://carlofontanos.com/wordpress-post-model-for-codeigniter/
